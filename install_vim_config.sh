@@ -1,4 +1,4 @@
 #!/usr/bin/sh
 set -e
-cat config.vim > ~/.vimrc
+cat vim_config.vim > ~/.vimrc
 echo 'installation succesful!'
