@@ -69,7 +69,7 @@ set guioptions-=L
 func! Compile()
 exec "w"
 if &filetype == 'sh'
-    exec "sh %"
+    exec "!sh %"
 elseif &filetype == 'c'
     exec "!gcc % -o %< && ./%<"
 elseif &filetype == 'cpp'
