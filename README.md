@@ -1,3 +1,3 @@
-to install the config:
+to install the vim config:
 
-    sh install_config.sh
+    sh install_vim_config.sh

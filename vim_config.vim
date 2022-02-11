@@ -123,4 +123,3 @@ endfunc
 map <F5> :call Compile()<CR>
 imap <F5> <Esc>:call Compile()<CR>
 vmap <F5> <Esc>:call Compile()<CR>
-
