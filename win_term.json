@@ -28,12 +28,9 @@
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "name": "Command Prompt",
                 "commandline": "cmd.exe",
-                "hidden": false,
-                "colorScheme": "ubuntu",
-                "suppressApplicationTitle": true,
                 "tabTitle": "terminal",
+                "colorScheme": "ubuntu",
                 "fontFace": "Ubuntu Mono",
-                "padding": "5, 5, 5, 5"
             },
             {
                 // Make changes here to the powershell.exe profile.
@@ -61,24 +58,26 @@
     "schemes": [
         {
             "name": "ubuntu",
-            "background": "#3C0315",
-            "black": "#282A2E",
-            "blue": "#0170C5",
-            "brightBlack": "#676E7A",
-            "brightBlue": "#80c8ff",
-            "brightCyan": "#8ABEB7",
-            "brightGreen": "#B5D680",
-            "brightPurple": "#AC79BB",
-            "brightRed": "#BD6D85",
-            "brightWhite": "#FFFFFD",
-            "brightYellow": "#FFFD76",
-            "cyan": "#3F8D83",
-            "foreground": "#FFFFFD",
-            "green": "#76AB23",
-            "purple": "#7D498F",
-            "red": "#BD0940",
-            "white": "#FFFFFD",
-            "yellow": "#E0DE48"
+            "black": "#2e3436",
+            "red": "#cc0000",
+            "green": "#4e9a06",
+            "yellow": "#c4a000",
+            "blue": "#3465a4",
+            "purple": "#75507b",
+            "cyan": "#06989a",
+            "white": "#d3d7cf",
+            "brightBlack": "#555753",
+            "brightRed": "#ef2929",
+            "brightGreen": "#8ae234",
+            "brightYellow": "#fce94f",
+            "brightBlue": "#729fcf",
+            "brightPurple": "#ad7fa8",
+            "brightCyan": "#34e2e2",
+            "brightWhite": "#eeeeec",
+            "background": "#300a24",
+            "foreground": "#eeeeec",
+            "selectionBackground": "#b5d5ff",
+            "cursorColor": "#bbbbbb"
         }
     ],
     // Add custom actions and keybindings to this array.
