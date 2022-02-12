@@ -3,6 +3,7 @@ syntax enable
 
 " super important
 set background=dark
+colorscheme ron
 set encoding=utf8
 
 " display line numbers
