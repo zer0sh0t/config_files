@@ -110,7 +110,7 @@ vmap <C-ScrollWheelRight> <nop>
 func! Compile()
 exec "w"
 if &filetype == 'sh'
-    exec "!sh %"
+    exec "!bash %"
 elseif &filetype == 'c'
     exec "!gcc % -o %< && ./%<"
 elseif &filetype == 'cpp'
