@@ -1,3 +1,5 @@
+to install the ubuntu theme on the windows terminal, copy the `win_term.json` > terminal's `settings.json`
+
 to install the vim config:
 
-    sh install_vim_config.sh
+    sh install_vim_cfg.sh
