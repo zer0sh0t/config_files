@@ -1,4 +1,4 @@
-install the ubuntu mono font from `UbuntuMono-R.tff`
+install the ubuntu mono font from `UbuntuMono-R.ttf`
 
 to install the config files:
 
